@@ -1,0 +1,10 @@
+nav {
+    background-color: white;
+    padding-left: 10px;
+    max-height: fit-content;
+}
+
+img {
+    width: 150px;
+    height: 55px;
+}
